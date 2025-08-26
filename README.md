@@ -258,7 +258,7 @@ The application handles various error scenarios:
 
 
 
-## 📝 Future Enhancements
+## Future Enhancements
 
 Potential improvements for future versions:
 - **Multiple Choice Questions**: Option to generate MCQ format
